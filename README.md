@@ -3,4 +3,4 @@
 
 1. keine Programmiererefahrung
 
-2. Programmieren lernen
+2. Programmieren lernen.
